@@ -1,1 +1,1 @@
-# Bachelor-s-Assignment
+# Bachelor-Assignment
